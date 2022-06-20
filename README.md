@@ -1,5 +1,5 @@
 # Image-Scene-Classifer
-An algorithm that uses SVM and BoWs techniques to classify an image as one of a selection of scene classificationis.
+An algorithm that uses SVM and BoWs techniques to classify an image as one of a selection of scene classifications.
 
 ### Tiny Image KNN Classification
 ![Figure_1](https://user-images.githubusercontent.com/77468346/172687642-5e5f313a-55b7-4ce7-80c7-6b82bdfa6538.png)
